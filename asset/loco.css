@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://media4.giphy.com/media/QsZol42CPIjMzke1QW/giphy.gif?cid=ecf05e47jxs74d73j2f03tdeuu4u2qr4np7kb6reehot4t7g&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+    /* Reemplaza "caricatura-background.jpg" con la imagen de fondo que desees utilizar */
+    background-position: center;
+    font-family: "Comic Sans MS", cursive;
+    background-size: auto;
+}
